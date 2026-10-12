@@ -12,7 +12,7 @@ export const SITE = {
   phone: "+92 300 0000000",
   email: "info@kangan.com",
   instagram: "https://instagram.com/",
-  facebook: "https://facebook.com/",
+  facebook: "https://www.facebook.com/kanganjewelery",
   tiktok: "https://tiktok.com/",
 };
 
