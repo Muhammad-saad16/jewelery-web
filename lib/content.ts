@@ -13,7 +13,7 @@ export const SITE = {
   email: "info@kangan.com",
   instagram: "https://instagram.com/",
   facebook: "https://www.facebook.com/kanganjewelery",
-  tiktok: "https://tiktok.com/",
+  tiktok: "https://www.tiktok.com/@kanganjewellery",
 };
 
 export const CATEGORIES = ["jewellery", "handbags", "watches", "perfumes"] as const;
